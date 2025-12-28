@@ -2,9 +2,9 @@ class Portfelj < Formula
     desc "IB flex explorer and tax returns generator for eDavki"
     license "Proprietary"
     homepage "https://github.com/codebydre/portfelj"
-    url "https://github.com/codebydre/homebrew-portfelj/releases/download/v0.3.0/portfelj-0.3.0-macos.tar.gz"
-    sha256 "52c75b4f505599b6ad661a21d31aa908ffe591dfcc9d5df133f401189c1e751b"
-    version "0.3.0"
+    url "https://github.com/codebydre/homebrew-portfelj/releases/download/v0.3.1/portfelj-0.3.1-macos.tar.gz"
+    sha256 "66d2c89e2e5d88e99ef41e81f606e9958a6645530b6b08ef2b380eac252a9d35"
+    version "0.3.1"
 
     def install
         bin.install "portfelj"
